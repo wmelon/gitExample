@@ -21,7 +21,7 @@
     int b = 20;
     self.sum = a + b;
     NSLog(@"这是一个 加法 a + b = %ld" , self.sum);
-    
+    NSLog(@"这个加法有问题");
     
 }
 
